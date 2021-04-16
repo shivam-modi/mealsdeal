@@ -3,8 +3,13 @@
 A new Flutter project.
 
 ## Getting Started
+run app using flutter run
 
-This project is a starting point for a Flutter application.
+## About
+
+This app for getting differnt kinds of foods and recipes which you can try yourself
+
+run app using flutter run
 
 A few resources to get you started if this is your first Flutter project:
 
